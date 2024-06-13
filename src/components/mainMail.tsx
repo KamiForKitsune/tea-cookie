@@ -28,9 +28,9 @@ const InvitationCard: React.FC = () => {
             <div className={`${styles.envelope} ${isOpen ? styles.envelopeOpen : ''}`}>
                 <div className={styles.card}>
                     <h2 className='mb-4'>Té y Galletas</h2>
-                    <p className='text-xs'>Nos encantaría que nos deleites con su dulce compañía</p>
+                    <p className='text-xs'>Nos encantaría que nos deleites con tu dulce presencia</p>
                     <p className='text-xs'>
-                        Fecha: 13/07
+                        Fecha: 13/07(Dia sujeto a cambios)
                         <br />
                         Hora: 17:00
                         <br />
